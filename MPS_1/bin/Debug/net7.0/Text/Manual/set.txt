@@ -1,0 +1,23 @@
+Manual for set
+	set letspd [x]: takes an integer x and assigns it to the speed of outputting the letters in milliseconds.
+	set wrdspd [x]: takes an integer x and assigns it to the speed of outputting the words in millisecods.
+	set fg [x]: takes a color x and assigns it to the font color of the console.
+	set bg [x]: takes a color x and assigns it to the background.
+	Warning: You cannot make the font color and background color the same.
+List of all colors: 
+	White
+	Black
+	Green
+	DarkGreen
+	Cyan
+	DarkCyan
+	Red
+	DarkRed
+	Yellow
+	DarkYellow
+	Blue
+	DarkBlue
+	Magenta
+	DarkMagenta
+	Gray
+	DarkGray

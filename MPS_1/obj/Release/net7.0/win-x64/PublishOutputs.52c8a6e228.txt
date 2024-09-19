@@ -1,0 +1,2 @@
+F:\Programming\CHashApps\MPS_1\MPS_1\bin\Release\net7.0\win-x64\publish\MPS_1.pdb
+F:\Programming\CHashApps\MPS_1\MPS_1\bin\Release\net7.0\win-x64\publish\MPS_1.exe

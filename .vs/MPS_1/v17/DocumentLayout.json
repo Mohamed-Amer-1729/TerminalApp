@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computers and Tech\\projects\\MPS_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\mps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\mps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\textmanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\textmanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\mental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\mental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|d:\\computers and tech\\projects\\mps_1\\mps_1\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6758939A-E873-426E-B602-52854741FE30}|MPS_1\\MPS_1.csproj|solutionrelative:mps_1\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Program.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Program.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Program.cs",
+              "RelativeToolTip": "MPS_1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:33:12.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Open.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Open.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Open.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Open.cs",
+              "RelativeToolTip": "MPS_1\\Open.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T17:45:23.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MPS.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\MPS.cs",
+              "RelativeDocumentMoniker": "MPS_1\\MPS.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\MPS.cs",
+              "RelativeToolTip": "MPS_1\\MPS.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:38:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\List.cs",
+              "RelativeDocumentMoniker": "MPS_1\\List.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\List.cs",
+              "RelativeToolTip": "MPS_1\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T13:19:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Report.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Report.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Report.cs",
+              "RelativeToolTip": "MPS_1\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T12:00:27.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Set.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Set.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Set.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Set.cs",
+              "RelativeToolTip": "MPS_1\\Set.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T17:18:14.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mental.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Mental.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Mental.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Mental.cs",
+              "RelativeToolTip": "MPS_1\\Mental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:37:18.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextManip.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\TextManip.cs",
+              "RelativeDocumentMoniker": "MPS_1\\TextManip.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\TextManip.cs",
+              "RelativeToolTip": "MPS_1\\TextManip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:35:33.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Object.cs",
+              "RelativeDocumentMoniker": "MPS_1\\Object.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\Object.cs",
+              "RelativeToolTip": "MPS_1\\Object.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T18:11:04.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "man.cs",
+              "DocumentMoniker": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\man.cs",
+              "RelativeDocumentMoniker": "MPS_1\\man.cs",
+              "ToolTip": "D:\\Computers and Tech\\projects\\MPS_1\\MPS_1\\man.cs",
+              "RelativeToolTip": "MPS_1\\man.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T17:02:49.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

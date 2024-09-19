@@ -1,0 +1,15 @@
+open
+	Takes the form of "open [type] [file]". Used to access the content of said files, and the types can be {MPS, Object classes, Mental classes, reports}. MPS requires the number, Object and Mental classes require the name, and reports require the date in "yyyy-MM-dd" format.
+	Additional Feature: You can append to previous reports, by adding "-a" to the end while opening the report of the date. If the date does not exist, the system will ask you if you want to create it.
+ls
+	Takes the form of "ls [argument]". Used to list all possible items in the list you chose. Possible lists to try are "Mental" for all mental classes, "Object" for all object classes, "MPS" for all available MPS entries, and "report" for all reports in your system.
+set
+	Used for changing the settings of the console. It takes the formate of "set {Setting to change} {new setting}". Type "set" to see all the possible settings and their respective arguments.
+report
+	Used to open a new report and update it to the system. You enter into reporting mode and the system keeps track of the date and the time. To exit the reporting mode, type "!q" in a new line. Warning every new line you add is premenant and cannot be edited. Reporting should be done in the most recent of time and no time should be wasted on picking the right words.
+man
+	Used to open the manual for help
+clear
+	Clear the console window
+exit
+	Used to exit the console
